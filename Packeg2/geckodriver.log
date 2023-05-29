@@ -1,0 +1,372 @@
+1673496763218	geckodriver	INFO	Listening on 127.0.0.1:7555
+1673496766277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile3bA1F9"
+1673496766708	Marionette	INFO	Marionette enabled
+1673496766716	Marionette	INFO	Listening on port 7567
+Read port: 7567
+WebDriver BiDi listening on ws://127.0.0.1:7556
+1673496766921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile3bA1F9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7556/devtools/browser/ce75c356-2fb8-4220-9c0b-608ec5432979
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673496854491	Marionette	INFO	Stopped listening on port 7561673496855364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileyfv2m1"
+1673496855767	Marionette	INFO	Marionette enabled
+1673496855773	Marionette	INFO	Listening on port 7767
+Read port: 7767
+WebDriver BiDi listening on ws://127.0.0.1:7756
+1673496855913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileyfv2m1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7756/devtools/browser/04992715-1cca-49f2-b4c1-2af9f57331eb
+1673497306018	Marionette	INFO	Stopped listening on port 7767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "8043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile98Bofc"
+1673497169259	Marionette	INFO	Marionette enabled
+1673497169268	Marionette	INFO	Listening on port 8053
+Read port: 8053
+WebDriver BiDi listening on ws://127.0.0.1:8043
+1673497169458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile98Bofc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8043/devtools/browser/4441b3df-ffbf-4e36-9ab7-3b00a1512304
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673497305075	Marionette	INFO	Stopped listening on port 8053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1456, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673497335066	geckodriver	INFO	Listening on 127.0.0.1:8260
+1673497338133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile7IoU47"
+1673497338548	Marionette	INFO	Marionette enabled
+1673497338554	Marionette	INFO	Listening on port 8271
+Read port: 8271
+WebDriver BiDi listening on ws://127.0.0.1:8261
+1673497338709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile7IoU47\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8261/devtools/browser/2a47f130-7687-465f-a3bb-fede42cc2ff7
+1673497442575	Marionette	INFO	Stopped listening on port 8271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_E1673497442684	Marionette	INFO	Marionette enabled
+1673497442692	Marionette	INFO	Listening on port 8462
+Read port: 8462
+WebDriver BiDi listening on ws://127.0.0.1:8449
+1673497442907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofilellEwwY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8449/devtools/browser/34e464e1-24d2-446b-9efb-a348e9d512aa
+1673497531322	Marionette	INFO	Stopped listening on port 8462
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\S\AppData\Local\Temp\rust_mozprofilellEwwY\protections.sqlite
+[Parent 3068, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673497536983	geckodriver	INFO	Listening on 127.0.0.1:8632
+1673497540034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileIifg2V"
+1673497540470	Marionette	INFO	Marionette enabled
+1673497540477	Marionette	INFO	Listening on port 8644
+WebDriver BiDi listening on ws://127.0.0.1:8633
+Read port: 8644
+1673497540783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileIifg2V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8633/devtools/browser/c90e9c5b-b328-42cd-97f7-7312925b63a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+1673498437321	Marionette	INFO	Stopped listening on port 8644
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673498502256	geckodriver	INFO	Listening on 127.0.0.1:9232
+1673498505315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileybk5i9"
+1673498506209	Marionette	INFO	Marionette enabled
+1673498506219	Marionette	INFO	Listening on port 9244
+Read port: 9244
+WebDriver BiDi listening on ws://127.0.0.1:9233
+1673498506390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileybk5i9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9233/devtools/browser/23f045ed-ab78-40ca-954f-c30390e191a2
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673499006807	Marionette	INFO	Stopped listening on port 9244
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\S\AppData\Local\Temp\rust_mozprofileybk5i9\protections.sqlite
+\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9567/devtools/browser/4582e0b4-7091-435f-9909-a682fab6dfb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+1673499005741	Marionette	INFO	Stopped listening on port 9578
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673499005826	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\S\AppData\Local\Temp\rust_mozprofileJgsV1h\protections.sqlite
+1673535130685	geckodriver	INFO	Listening on 127.0.0.1:1411
+1673535133749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileiWCNJF"
+1673535134741	Marionette	INFO	Marionette enabled
+1673535134749	Marionette	INFO	Listening on port 1421
+Read port: 1421
+WebDriver BiDi listening on ws://127.0.0.1:1412
+1673535134911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileiWCNJF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1412/devtools/browser/06e6ff86-5b8e-4bcb-ba24-20afddf1c254
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673535184482	Marionette	INFO	Stopped listening on port 1421
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673535184599	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+observe()@resource://gre/modules/AsyncShutdown.jsm:560
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\S\AppData\Local\Temp\rust_mozprofileiWCNJF\protections.sqlite
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673535214029	geckodriver	INFO	Listening on 127.0.0.1:1548
+1673535217090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofilevB1UQs"
+1673535217535	Marionette	INFO	Marionette enabled
+1673535217542	Marionette	INFO	Listening on port 1558
+WebDriver BiDi listening on ws://127.0.0.1:1549
+Read port: 1558
+1673535217822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofilevB1UQs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1549/devtools/browser/04c3d68f-0ffb-4129-94b5-27e4873c9cad
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673535369519	Marionette	INFO	Stopped listening on port 1558
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\S\AppData\Local\Temp\rust_mozprofilevB1UQs\protections.sqlite
+\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1691/devtools/browser/0bc502c5-2aed-4b67-af7e-c2e740c639ec
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673535391321	Marionette	INFO	Stopped listening on port 1700
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673535391402	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\S\AppData\Local\Temp\rust_mozprofile1j0Q9l\protections.sqlite
+[Parent 8112, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673535503675	geckodriver	INFO	Listening on 127.0.0.1:1926
+1673535506725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileKGCNwa"
+1673535507166	Marionette	INFO	Marionette enabled
+1673535507173	Marionette	INFO	Listening on port 1938
+WebDriver BiDi listening on ws://127.0.0.1:1927
+Read port: 1938
+1673535507454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileKGCNwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1927/devtools/browser/fa29c541-7254-465f-99d9-69e15252c1fb
+1673535579702	Marionette	INFO	Stopped listening on port 1938
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674876782068	geckodriver	INFO	Listening on 127.0.0.1:9055
+1674876785127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile13lObT"
+1674876785526	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674876785533	Marionette	INFO	Listening on port 9063
+Read port: 9063
+WebDriver BiDi listening on ws://127.0.0.1:9056
+1674876785702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofile13lObT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9056/devtools/browser/18af00d3-b0ee-4c5f-a04d-869cf83e25ea
+1674876871687	Marionette	INFO	Stopped listening on port 9063
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674877022840	geckodriver	INFO	Listening on 127.0.0.1:9316
+1674877025903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileEYwvVu"
+1674877026313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674877026321	Marionette	INFO	Listening on port 9326
+Read port: 9326
+WebDriver BiDi listening on ws://127.0.0.1:9317
+1674877026496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileEYwvVu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9317/devtools/browser/b788bb15-c132-4659-bce8-8f02d0e4e151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pickaboo.com."
+1674877465147	Marionette	INFO	Stopped listening on port 9326
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674877472766	geckodriver	INFO	Listening on 127.0.0.1:9665
+1674877475827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileWTRB7I"
+1674877476350	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674877476358	Marionette	INFO	Listening on port 9675
+Read port: 9675
+WebDriver BiDi listening on ws://127.0.0.1:9666
+1674877476560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofileWTRB7I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9666/devtools/browser/5e2af3f3-eb97-4d3d-9624-625c80d0d67d
+1674877538518	Marionette	INFO	Stopped listening on port 9675
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674877538875	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1674877545000	geckodriver	INFO	Listening on 127.0.0.1:9826
+1674877548069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofilerd8qg6"
+1674877548503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674877548511	Marionette	INFO	Listening on port 9836
+Read port: 9836
+WebDriver BiDi listening on ws://127.0.0.1:9827
+1674877548744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\S\\AppData\\Local\\Temp\\rust_mozprofilerd8qg6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9827/devtools/browser/43c7e49e-ab15-4fe5-b622-99717c7c55e2
+1674877726151	Marionette	INFO	Stopped listening on port 9836
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4180, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
